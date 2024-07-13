@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #000000;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.navbar{
+    height: 70px;
+}
+
+.textSimple{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.iconos{
+    color: #fff;
+}
+.tooltip.bs-tooltip-auto .tooltip-inner{
+    background-color: #fff;
+    color: #000;
+}
+
+a.textFooter{
+    text-decoration: none;
+}
